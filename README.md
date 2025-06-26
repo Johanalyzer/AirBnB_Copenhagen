@@ -11,10 +11,10 @@ This project focuses on leveraging data to optimize Airbnb occupancy rates in Co
 
 ## **View the Interactive Tableau Dashboard Here:**
 
-[cite_start][**Access the Airbnb Copenhagen Dashboard**](https://public.tableau.com/app/profile/tim.r.ling/viz/airbnb_17354823633220/NeighborhoodView?publish=yes) [cite: 300]
+[**Access the Airbnb Copenhagen Dashboard**](https://public.tableau.com/app/profile/tim.r.ling/viz/airbnb_17354823633220/NeighborhoodView?publish=yes)
 
 ---
 
 ### Project Repository
 You can find the project's code and related files on GitHub:
-[cite_start][Airbnb Copenhagen GitHub Repository](https://github.com/tiro27cbs/Airbnb_Copenhagen) [cite: 300]
+[Airbnb Copenhagen GitHub Repository](https://github.com/tiro27cbs/Airbnb_Copenhagen)
